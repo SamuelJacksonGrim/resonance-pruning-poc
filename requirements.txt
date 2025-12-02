@@ -1,0 +1,5 @@
+torch>=2.0.0
+sympy>=1.12
+numpy
+matplotlib
+tqdm
