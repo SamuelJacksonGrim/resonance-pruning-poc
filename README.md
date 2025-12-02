@@ -11,3 +11,10 @@ We measure deviation as **dissonance** → clamp + reward low-dissonance paths �
 ## Install
 ```bash
 pip install torch sympy numpy matplotlib tqdm
+```
+Quick Demo
+```bash
+python benchmark_nbody.py --steps 500
+```
+
+→ Expect <6% orbital drift even at 1000 steps (vs 60%+ baseline)
