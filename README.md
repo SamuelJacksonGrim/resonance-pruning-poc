@@ -6,6 +6,15 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%3E%3D2.0-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
 ![status](https://img.shields.io/badge/status-research-success)
 
+## License
+
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
 **Long-horizon reasoning stabilization via dissonance-clamped symbolic invariants**
 
 > **Cross-repo note.** In the Resonance stack this is the *consistency / self-correction* layer — a reasoning-chain stabilizer, **not** a memory store. Its `dissonance` metric (deviation from a conserved invariant) is a candidate consolidation-admission gate for memory. Cross-repo work-order: https://github.com/SamuelJacksonGrim/resonance-memory-stack
